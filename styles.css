@@ -2,10 +2,7 @@
     font-size: 16px;
 }
 
-body {
-    background-color: #f8f9fa;
-    color: #343a40;
-}
+
 
 .container {
     max-width: 800px;
@@ -16,7 +13,6 @@ body {
 
 h1 {
     margin-bottom: 20px;
-    color: #212529;
     font-family: Barlow Condensed, sans-serif;
     font-weight: 700;
     font-size: 3rem;
@@ -42,4 +38,23 @@ p {
 
 .img {
     width: 15%;
+}
+
+/* Estilos para el modo oscuro */
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+.dark-mode .navbar {
+    background-color: #222;
+}
+
+
+
+.fondo {
+    background: #8787f5;
+    background: linear-gradient(317deg, #8787f5 15%, #8a8aea 25%, #f3abf8 50%, #f397fc 75%, #d987ff 100%);
+    background: -webkit-linear-gradient(317deg, #8787f5 15%, #8a8aea 25%, #f3abf8 50%, #f397fc 75%, #d987ff 100%);
+    background: -moz-linear-gradient(317deg, #8787f5 15%, #8a8aea 25%, #f3abf8 50%, #f397fc 75%, #d987ff 100%);
 }
