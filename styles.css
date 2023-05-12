@@ -15,11 +15,20 @@ h1 {
     margin-bottom: 20px;
     font-family: Barlow Condensed, sans-serif;
     font-weight: 700;
+    font-size: 5rem;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-family: Barlow Condensed, sans-serif;
+    font-weight: 500;
     font-size: 3rem;
 }
 
 p {
     margin-bottom: 30px;
+    font-family: Barlow Condensed, sans-serif;
+    font-size: 1.5rem;
 }
 
 .btn {
@@ -40,7 +49,7 @@ p {
     width: 15%;
 }
 
-/* Estilos para el modo oscuro */
+
 .dark-mode {
     background-color: #333;
     color: #fff;
@@ -57,4 +66,18 @@ p {
     background: linear-gradient(317deg, #8787f5 15%, #8a8aea 25%, #f3abf8 50%, #f397fc 75%, #d987ff 100%);
     background: -webkit-linear-gradient(317deg, #8787f5 15%, #8a8aea 25%, #f3abf8 50%, #f397fc 75%, #d987ff 100%);
     background: -moz-linear-gradient(317deg, #8787f5 15%, #8a8aea 25%, #f3abf8 50%, #f397fc 75%, #d987ff 100%);
+}
+
+.imagen {
+    width: 90%;
+}
+
+.card-img-top {
+    width: 80%;
+    margin: auto;
+}
+
+.card {
+    background-color: #8787f500;
+    border-color: #8787f500;
 }
