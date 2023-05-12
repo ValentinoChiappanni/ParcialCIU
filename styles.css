@@ -87,3 +87,11 @@ p {
     background-color: #8787f500;
     border-color: #8787f500;
 }
+
+.imagenNav {
+    width: 50px;
+}
+
+.nav-item {
+    margin-left: 5px;
+}
