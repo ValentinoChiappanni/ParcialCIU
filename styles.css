@@ -34,7 +34,7 @@ label {
 p {
     margin-bottom: 30px;
     font-family: Barlow Condensed, sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
 }
 
 .btn {
@@ -86,6 +86,7 @@ p {
 .card {
     background-color: #8787f500;
     border-color: #8787f500;
+    max-width: 90%;
 }
 
 .imagenNav {
@@ -94,4 +95,16 @@ p {
 
 .nav-item {
     margin-left: 5px;
+}
+
+.marcas {
+    width: 30%;
+}
+
+.recuadro {
+    border-width: 3px;
+    border-style: dashed;
+    padding: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
