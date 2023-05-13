@@ -1,13 +1,5 @@
 # Parcial
 
-## Se utilizo:
-<b>Funte: </b> Barlow Condensed
+El Metaverso: Un Vistazo al Futuro del Trabajo. Este evento tiene como objetivo explorar el concepto emergente de metaverso empresarial y su impacto en la forma en que trabajamos.
 
-<b>bootstrap5: </b> https://www.w3schools.com/bootstrap5/
-
-<b>Pagina como ejemplo: </b> https://www.virbela.com/go/metaverse-future-of-work
-
-## Archivos generados:
-+ index
-+ register
-+ script
+El sitio web está construido utilizando HTML, CSS y JavaScript, con la ayuda del framework Bootstrap para una apariencia y diseño. 
