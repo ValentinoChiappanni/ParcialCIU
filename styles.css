@@ -51,6 +51,10 @@ p {
     height: 100%;
 }
 
+a {
+    text-decoration: none;
+}
+
 .img {
     width: 15%;
 }
@@ -64,8 +68,6 @@ p {
 .dark-mode .navbar {
     background-color: #222;
 }
-
-
 
 .fondo {
     background: #8787f5;
